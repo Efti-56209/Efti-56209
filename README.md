@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Efti-56209
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on a webpage
+- 🌱 I’m currently good in HTML, CSS.
 - 📫 How to reach me ...
+efti0@live.com
 
 <!---
 Efti-56209/Efti-56209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
